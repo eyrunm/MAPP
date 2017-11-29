@@ -1,0 +1,11 @@
+/Users/eyrunmagnusdottir/Projects/MovieSearch/MovieSearch/bin/Debug/MovieSearch.dll
+/Users/eyrunmagnusdottir/Projects/MovieSearch/MovieSearch/bin/Debug/MovieSearch.pdb
+/Users/eyrunmagnusdottir/Projects/MovieSearch/MovieSearch/bin/Debug/DM.MovieApi.dll
+/Users/eyrunmagnusdottir/Projects/MovieSearch/MovieSearch/bin/Debug/Newtonsoft.Json.dll
+/Users/eyrunmagnusdottir/Projects/MovieSearch/MovieSearch/bin/Debug/Newtonsoft.Json.xml
+/Users/eyrunmagnusdottir/Projects/MovieSearch/MovieSearch/bin/Debug/DM.MovieApi.pdb
+/Users/eyrunmagnusdottir/Projects/MovieSearch/MovieSearch/bin/Debug/DM.MovieApi.xml
+/Users/eyrunmagnusdottir/Projects/MovieSearch/MovieSearch/obj/Debug/MovieSearch.csproj.CoreCompileInputs.cache
+/Users/eyrunmagnusdottir/Projects/MovieSearch/MovieSearch/obj/Debug/MovieSearch.dll
+/Users/eyrunmagnusdottir/Projects/MovieSearch/MovieSearch/obj/Debug/MovieSearch.pdb
+/Users/eyrunmagnusdottir/Projects/MovieSearch/MovieSearch/obj/Debug/MovieSearch.csprojResolveAssemblyReference.cache

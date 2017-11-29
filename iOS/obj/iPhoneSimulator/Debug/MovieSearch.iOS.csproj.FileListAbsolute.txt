@@ -1,0 +1,17 @@
+/Users/eyrunmagnusdottir/Projects/MovieSearch/iOS/bin/iPhoneSimulator/Debug/MovieSearch.iOS.exe
+/Users/eyrunmagnusdottir/Projects/MovieSearch/iOS/bin/iPhoneSimulator/Debug/MovieSearch.iOS.pdb
+/Users/eyrunmagnusdottir/Projects/MovieSearch/iOS/bin/iPhoneSimulator/Debug/DM.MovieApi.dll
+/Users/eyrunmagnusdottir/Projects/MovieSearch/iOS/bin/iPhoneSimulator/Debug/MovieSearch.dll
+/Users/eyrunmagnusdottir/Projects/MovieSearch/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/eyrunmagnusdottir/Projects/MovieSearch/iOS/bin/iPhoneSimulator/Debug/MovieSearch.pdb
+/Users/eyrunmagnusdottir/Projects/MovieSearch/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.xml
+/Users/eyrunmagnusdottir/Projects/MovieSearch/iOS/bin/iPhoneSimulator/Debug/DM.MovieApi.pdb
+/Users/eyrunmagnusdottir/Projects/MovieSearch/iOS/bin/iPhoneSimulator/Debug/DM.MovieApi.xml
+/Users/eyrunmagnusdottir/Projects/MovieSearch/iOS/obj/iPhoneSimulator/Debug/MovieSearch.iOS.csprojResolveAssemblyReference.cache
+/Users/eyrunmagnusdottir/Projects/MovieSearch/iOS/obj/iPhoneSimulator/Debug/MovieSearch.iOS.csproj.CoreCompileInputs.cache
+/Users/eyrunmagnusdottir/Projects/MovieSearch/iOS/obj/iPhoneSimulator/Debug/MovieSearch.iOS.exe
+/Users/eyrunmagnusdottir/Projects/MovieSearch/iOS/obj/iPhoneSimulator/Debug/MovieSearch.iOS.pdb
+/Users/eyrunmagnusdottir/Projects/MovieSearch/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-11.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/eyrunmagnusdottir/Projects/MovieSearch/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-11.1/actool/_PartialAppManifest.items
+/Users/eyrunmagnusdottir/Projects/MovieSearch/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-11.1/actool/_BundleResourceWithLogicalName.items
+/Users/eyrunmagnusdottir/Projects/MovieSearch/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-11.1/optimized/
